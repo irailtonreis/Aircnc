@@ -12,5 +12,15 @@ Sistema foi desenvolvido com **Node.js** no backend, **ReactJS** no Frontend e *
 Utiliza uma Api criada a partir do banco de dados MongoDB e Framework Express.
 
 ---
-## Tela Longin versão WEB
-![Tela Login Frontend](https://github.com/irailtonreis/Aircnc/blob/master/Login-Frontend.JPG)
+# Telas verão WEB
+## Login                                                                                                
+![Tela Login Frontend](https://github.com/irailtonreis/Aircnc/blob/master/Login-Frontend.JPG)            
+
+## Cadastro Spot                                                                                                 
+![Cadastro Spot](https://github.com/irailtonreis/Aircnc/blob/master/Cadastro-Spot.JPG)   
+
+## Inserir Spot                                                                                                
+![Inserir Spot](https://github.com/irailtonreis/Aircnc/blob/master/Inserir-Spot.JPG)   
+
+## Listando Spots                                                                                                
+![Listando Spots](https://github.com/irailtonreis/Aircnc/blob/master/Listando-Spots.JPG)   
